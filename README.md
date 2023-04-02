@@ -5,7 +5,6 @@ A Web-App which let's you customize your RuneScape 3 capes!
 
 ## ToDo-List
 - [ ] Svelte App
-	- [ ] Simple SPA
 	- [ ] Optional User-Accounts
 		- [ ] Shareable via links? or only via codes, that can be pasted
 		- [ ] Data saved in User-Account + local storage
